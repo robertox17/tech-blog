@@ -5,7 +5,7 @@ Welcome to the Developer Blog! This is a CMS-style blog site where developers ca
 ### Getting Started
 To get started, follow these instructions:
 
-Clone the repository: git clone https://github.com/your-username/developer-blog.git
+Clone the repository: git clone hhttps://github.com/robertox17/tech-blog
 Install dependencies: npm install
 Start the development server: npm start
 Open the app in your browser at http://localhost:3000
@@ -22,11 +22,8 @@ Sequelize
 Node.js
 Express.js
 Heroku
-### Deployment
-The app has been deployed to Heroku at https://www.example.com.
 
-###
- Future Plans
+### Future Plans
 I plan to continue improving and expanding the app, with a focus on user experience and functionality. Some ideas I have for the future include:
 
 Adding the ability to like and dislike blog posts and comments
