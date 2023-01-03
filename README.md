@@ -1,5 +1,6 @@
 ## Developer Blog
 Welcome to the Developer Blog! This is a CMS-style blog site where developers can publish their own blog posts and comment on other developers' posts. The app has been built from scratch using the MVC paradigm, with Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. It has been deployed to Heroku.
+<img width="1111" alt="Screenshot 2023-01-03 at 12 41 52 AM" src="https://user-images.githubusercontent.com/108193561/210323960-62150a8f-55df-412c-9caf-498201ad7814.png">
 
 ### Getting Started
 To get started, follow these instructions:
